@@ -2,7 +2,7 @@ body {
     font-family: Helvetica Neue, sans-serif;
     font-weight: bold;
     text-align: center;
-    background: lightgray;
+    background: white;
 }
 
 h1 {
@@ -38,8 +38,10 @@ button {
 .container {
     max-width: 275px;
     margin: auto;
+    background-color: lightgray;
     border: 3px solid black;
     border-radius: 10px;
+    box-shadow: 2px 4px 6px rgba(0,0,0,0.5);
 }
 
 #save-el {
