@@ -38,7 +38,7 @@ button {
 .container {
     max-width: 275px;
     margin: auto;
-    background-color: lightgray;
+    background-color: #f0f0f0;
     border: 3px solid black;
     border-radius: 10px;
     box-shadow: 2px 4px 6px rgba(0,0,0,0.5);
